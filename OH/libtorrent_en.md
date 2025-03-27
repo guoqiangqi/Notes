@@ -31,5 +31,6 @@ The results show excellent compatibility without significant stability issues. T
 ## Labels
 enhancement, compatibility, cross-platform
 
-## Upstream Committers
+
+## Involve upstream Committers (this is only applicable when the upstream party fails to respond or provide feedback for an extended period)
 We've noted that @core_developer1, @core_developer1 have contributed a great deal to the community. We're also eager to hear your feedback. Appreciate it.
